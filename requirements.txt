@@ -1,0 +1,15 @@
+microsft winapp PythonSoftwareFoundation.Python.3.9
+
+python modules: to run in the folder:
+pip (upgrade to latest)
+numpy
+matplotlib
+seaborn
+pandas
+opencv-python #cv2 
+scipy
+face_recognition (pip install cmake, pip install dlib-19.22.99-cp39-cp30-win_amd64.whl, pip install face-recognition)
+pillow
+argparse
+imageio
+nbopen
