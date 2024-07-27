@@ -1,4 +1,4 @@
-microsft winapp PythonSoftwareFoundation.Python.3.9
+microsft winapp PythonSoftwareFoundation.Python.3.12
 
 python modules: to run in the folder:
 pip (upgrade to latest)
